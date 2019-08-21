@@ -52,7 +52,7 @@ playersArray.pop();
 console.log(playersArray);
 
 console.log("remove the first player with shift");
-playersArray.pop();
+playersArray.shift();
 console.log(playersArray);
 
 console.log("even cooler loop than with i");
