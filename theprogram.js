@@ -67,7 +67,7 @@ playersArray.forEach(player => console.log(player));
 
 //console.log("if we need the index");
 playersArray.forEach( (player,playerIndex) => console.log(`Index: ${playerIndex} Spieler:${player}`));
-*/
+
 
 console.log("now we want to get data from the server: callback functions")
 //here comes different callback function syntax
@@ -156,3 +156,4 @@ function htmlGenerierenDeclaration(){
     console.log("this come from a function declaration");
 }
 
+*/
